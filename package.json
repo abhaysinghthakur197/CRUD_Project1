@@ -1,0 +1,19 @@
+{
+  "name": "crud_project",
+  "version": "1.0.0",
+  "description": "This stored the project information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaysinghthakur197/https---github.com-abhaysinghthakur197-CRUD_Project.git"
+  },
+  "author": "Abhay Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaysinghthakur197/https---github.com-abhaysinghthakur197-CRUD_Project/issues"
+  },
+  "homepage": "https://github.com/abhaysinghthakur197/https---github.com-abhaysinghthakur197-CRUD_Project#readme"
+}
